@@ -6,7 +6,7 @@
 </head>
 <body>
     
-<h1 align="center"> Timer
+<h1 align="center"> Timer ⏰
 
 </h1>
 <h2 align="left"><ins> Descrição do Projeto </ins></h2>
